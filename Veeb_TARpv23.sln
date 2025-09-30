@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veeb_TARpv23", "Veeb_TARpv23.csproj", "{CCC6ADF4-B8F4-4D41-9F55-59B4944CA310}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veeb_TARpv23", "Veeb_TARpv23.csproj", "{34FE3F6C-E226-4551-B6D9-635B3B03BDD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CCC6ADF4-B8F4-4D41-9F55-59B4944CA310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCC6ADF4-B8F4-4D41-9F55-59B4944CA310}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCC6ADF4-B8F4-4D41-9F55-59B4944CA310}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCC6ADF4-B8F4-4D41-9F55-59B4944CA310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FE3F6C-E226-4551-B6D9-635B3B03BDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FE3F6C-E226-4551-B6D9-635B3B03BDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FE3F6C-E226-4551-B6D9-635B3B03BDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FE3F6C-E226-4551-B6D9-635B3B03BDD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {69AC750F-E9EE-4391-A819-6285E2CBE679}
+		SolutionGuid = {C88CFA59-8B1C-4B4D-A523-1C773A139B7A}
 	EndGlobalSection
 EndGlobal
