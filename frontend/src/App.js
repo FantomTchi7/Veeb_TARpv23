@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import DeviceList from './components/DeviceList';
-import EmployeeList from './components/EmployeeList';
 import AddDeviceForm from './components/AddDeviceForm';
 
 function App() {
@@ -16,8 +15,6 @@ function App() {
         </section>
         <section className="column">
           <DeviceList />
-          <hr />
-          <EmployeeList />
         </section>
       </main>
     </div>
